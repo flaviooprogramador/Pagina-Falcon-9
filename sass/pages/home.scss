@@ -19,3 +19,18 @@
 .titlePadding{
   padding-top: 200px;
 }
+
+.shortTitle{
+  width: 550px;
+  margin-bottom: -25px;
+}
+
+.mediumTitle{
+  width: 650px;
+  margin-bottom: -25px;
+}
+
+#button {
+  padding: $padding-button;
+}
+
